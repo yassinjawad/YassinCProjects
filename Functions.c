@@ -12,7 +12,7 @@
 void congratulate1(char *student, char *language, char *programmer){
     // display a message to stdout
     printf("%s has done as much %s programming as %s.\n", student, language, programmer);
-
+    congratulate2(student, language, programmer);
 }
 
 // this function 

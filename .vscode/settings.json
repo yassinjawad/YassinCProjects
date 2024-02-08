@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "basicio.h": "c"
+        "basicio.h": "c",
+        "stdio.h": "c",
+        "passbyref.h": "c"
     }
 }

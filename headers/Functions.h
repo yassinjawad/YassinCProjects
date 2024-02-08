@@ -2,7 +2,7 @@
 
 // create macro values (constants)
 // convert a temp from celsius to fahrenheit
-#define FAHRENHEITd(temp) (temp * 1.8 + 32)
+#define FAHRENHEIT(temp) (temp * 1.8 + 32);
 
 #include <stdio.h>
 #include <string.h>
